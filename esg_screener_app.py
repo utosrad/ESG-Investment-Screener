@@ -1,7 +1,5 @@
 import streamlit as st
 import pandas as pd
-import matplotlib.pyplot as plt
-
 # Load the data
 df = pd.read_csv("esg_screener_data.csv")
 
