@@ -1,0 +1,316 @@
+Name,Sector,Total ESG Risk score,ESG Risk Level,Marketcap,Ebitda,Revenuegrowth,Currentprice,Fulltimeemployees
+"Enphase Energy, Inc.",Technology,,,9653395456,102900000.0,-0.309,71.45,3157.0
+Eastman Chemical Company,Basic Materials,25.3,Medium,10636177408,1684000000.0,0.087,91.76,14000.0
+Davita Inc.,Healthcare,22.6,Medium,12455345152,2657765120.0,0.046,151.85,70000.0
+"Darden Restaurants, Inc.",Consumer Cyclical,27.5,Medium,22041825280,1789500032.0,0.01,187.59,191105.0
+Zoetis Inc.,Healthcare,18.8,Low,74370031616,3764000000.0,0.11,164.84,14100.0
+"Zimmer Biomet Holdings, Inc.",Healthcare,26.0,Medium,21324808192,2557400064.0,0.04,107.12,18000.0
+Zebra Technologies Corporation,Technology,,,20273004544,803000000.0,0.313,393.04,9750.0
+"Yum! Brands, Inc.",Consumer Cyclical,20.1,Medium,36937969664,2608000000.0,0.069,132.36,35000.0
+Weyerhaeuser Company,Real Estate,16.7,Low,19981004800,1234000000.0,-0.169,27.5,9300.0
+"West Pharmaceutical Services, Inc.",Healthcare,,,24000782336,744700032.0,-0.001,331.4,10600.0
+Welltower Inc.,Real Estate,13.2,Low,77612081152,2930661888.0,0.288,124.64,533.0
+"Wec Energy Group, Inc.",Utilities,27.5,Medium,29895450624,3489200128.0,-0.048,94.5,7000.0
+"Waste Management, Inc.",Industrials,16.6,Low,82613166080,6381000192.0,0.079,205.83,48000.0
+Walmart Inc.,Consumer Defensive,25.3,Medium,740999888896,40779001856.0,0.048,92.24,2100000.0
+"W.W. Grainger, Inc.",Industrials,16.0,Low,53227368448,2836999936.0,0.043,1092.96,23200.0
+Vulcan Materials Company,Basic Materials,29.3,Medium,34749210624,1985699968.0,-0.083,263.13,10961.0
+Vistra Corp.,Utilities,,,47614623744,6019999744.0,0.539,139.95,4870.0
+Visa Inc.,Financial Services,16.7,Low,615235846144,24973000704.0,0.117,317.71,
+Vici Properties Inc.,Real Estate,,,30349555712,3661391104.0,0.067,28.79,28.0
+Viatris Inc.,Healthcare,,,14943747072,4586699776.0,-0.048,12.52,32000.0
+"Verisk Analytics, Inc.",Industrials,17.5,Low,39095676928,1363000064.0,0.07,276.86,7500.0
+Veralto Corporation,Industrials,,,25781858304,1264999936.0,0.047,104.25,16000.0
+"Ventas, Inc.",Real Estate,12.9,Low,24650465280,1857009024.0,0.08,58.76,486.0
+Valero Energy Corporation,Energy,32.6,High,37543813120,7816000000.0,-0.152,118.59,9886.0
+Unitedhealth Group Incorporated,Healthcare,15.3,Low,460261654528,35035000832.0,0.092,500.13,440000.0
+"United Rentals, Inc.",Industrials,16.9,Low,47421370368,4542000128.0,0.06,722.64,26300.0
+"United Airlines Holdings, Inc.",Industrials,28.6,Medium,32032522240,7482999808.0,0.025,97.4,106500.0
+"Ulta Beauty, Inc.",Consumer Cyclical,15.6,Low,19940638720,1827608064.0,0.009,430.01,20000.0
+"Udr, Inc.",Real Estate,13.9,Low,16326182912,989297984.0,0.006,43.46,1397.0
+"Uber Technologies, Inc.",Technology,,,127879766016,3444999936.0,0.204,60.73,30800.0
+U.S. Bancorp,Financial Services,30.3,High,74756628480,,-0.032,47.92,70000.0
+"Tyson Foods, Inc.",Consumer Defensive,35.9,High,20665157632,3144000000.0,0.016,58.02,138000.0
+"Tyler Technologies, Inc.",Technology,,,25911128064,368943008.0,0.098,605.42,7386.0
+Truist Financial Corporation,Financial Services,,,57508167680,,0.061,43.32,37867.0
+Trimble Inc.,Technology,12.4,Low,17495060480,737699968.0,-0.085,71.64,12700.0
+Transdigm Group Incorporated,Industrials,38.7,High,71758430208,3888000000.0,0.18,1276.15,16600.0
+Trane Technologies Plc,Industrials,15.2,Low,84858798080,3691200000.0,0.114,377.11,40000.0
+The Walt Disney Company,Communication Services,15.7,Low,202879614976,16750999552.0,0.037,112.03,173250.0
+"The Travelers Companies, Inc.",Financial Services,20.3,Medium,54657093632,6719000064.0,0.119,240.76,32967.0
+The Southern Company,Utilities,33.0,High,90788044800,13061000192.0,0.042,82.86,27819.0
+The Sherwin-Williams Company,Basic Materials,29.4,Medium,87007649792,4399799808.0,0.007,345.47,64088.0
+The Mosaic Company,Basic Materials,33.5,High,7645714944,1908199936.0,-0.208,24.07,14049.0
+The Kroger Co.,Consumer Defensive,21.3,Medium,44755030016,8067999744.0,-0.006,61.85,414000.0
+The Kraft Heinz Company,Consumer Defensive,33.7,High,36903870464,6446000128.0,-0.028,30.52,36000.0
+"The Interpublic Group of Companies, Inc.",Communication Services,10.3,Low,10829010944,1732099968.0,-0.029,29.07,55100.0
+The Hershey Company,Consumer Defensive,26.0,Medium,34452963328,2952748032.0,-0.014,170.26,18650.0
+"The Hartford Financial Services Group, Inc.",Financial Services,16.6,Low,31734368256,4254000128.0,0.095,109.47,18700.0
+"The Cooper Companies, Inc.",Healthcare,17.5,Low,18649036800,1023000000.0,0.078,93.44,15000.0
+The Cigna Group,Healthcare,11.6,Low,77026131968,8554999808.0,0.28,276.92,70325.0
+The Charles Schwab Corporation,Financial Services,23.3,Medium,136028905472,,0.052,74.31,32100.0
+The Allstate Corporation,Financial Services,22.0,Medium,51255271424,6192999936.0,0.147,193.56,53000.0
+Texas Instruments Incorporated,Technology,20.6,Medium,170465984512,6896999936.0,-0.084,186.87,34000.0
+"Tesla, Inc.",Consumer Cyclical,25.2,Medium,1351627833344,13244000256.0,0.078,421.06,140473.0
+"Teradyne, Inc.",Technology,17.0,Low,20512342016,640716992.0,0.048,125.95,6400.0
+Teleflex Incorporated,Healthcare,29.6,Medium,8274409984,644953984.0,0.024,178.16,14500.0
+Teledyne Technologies Incorporated,Technology,,,21774923776,1346000000.0,0.029,467.25,14900.0
+Target Corporation,Consumer Defensive,14.4,Low,60245712896,9230999552.0,0.027,131.48,415000.0
+Targa Resources Corp.,Energy,33.2,High,38551359488,4021700096.0,-0.012,176.79,3182.0
+"Tapestry, Inc.",Consumer Cyclical,14.8,Low,14949259264,1439500032.0,-0.004,64.15,12500.0
+"T-Mobile Us, Inc.",Communication Services,24.6,Medium,255667552256,30663999488.0,0.047,220.31,67000.0
+Sysco Corporation,Consumer Defensive,15.9,Low,37809664000,4410999808.0,0.044,76.97,76000.0
+Synchrony Financial,Financial Services,17.3,Low,25482563584,,0.116,65.45,20000.0
+"Super Micro Computer, Inc.",Technology,,,18497998848,1304590720.0,1.43,31.59,
+Stryker Corporation,Healthcare,28.3,Medium,138991353856,5693000192.0,0.119,364.6,52000.0
+Steris Plc,Healthcare,,,20480778240,1325649024.0,0.073,207.49,18000.0
+State Street Corporation,Financial Services,24.1,Medium,28787427328,,0.201,98.2,53000.0
+"Stanley Black & Decker, Inc.",Industrials,25.3,Medium,12641447936,1663699968.0,-0.051,82.0,50500.0
+Southwest Airlines Co.,Industrials,30.7,High,19959246848,1682000000.0,0.053,33.28,73463.0
+Solventum Corporation,Healthcare,,,11545350144,1840000000.0,0.004,66.83,
+Snap-on Incorporated,Industrials,30.5,High,18038120448,1480000000.0,-0.005,343.65,13200.0
+"Simon Property Group, Inc.",Real Estate,14.0,Low,64434921472,4353110016.0,0.049,171.61,2500.0
+"Servicenow, Inc.",Technology,16.6,Low,225143422976,1824000000.0,0.222,1091.25,22668.0
+Sempra,Utilities,23.6,Medium,54985363456,4930999808.0,-0.167,86.81,16835.0
+Schlumberger Limited,Energy,20.3,Medium,52009488384,8130999808.0,0.102,36.83,111000.0
+"Salesforce, Inc.",Technology,14.9,Low,328873050112,9345000448.0,0.084,343.65,72682.0
+S&p Global Inc.,Financial Services,13.0,Low,152608636928,6645000192.0,0.159,491.81,40450.0
+Rtx Corporation,Industrials,,,155037220864,12570999808.0,0.492,116.48,185000.0
+"Roper Technologies, Inc.",Technology,20.4,Medium,56338120704,2732699904.0,0.129,525.4,16800.0
+"Rollins, Inc.",Consumer Cyclical,19.3,Low,22723590144,757598016.0,0.09,46.92,20000.0
+"Rockwell Automation, Inc.",Industrials,17.7,Low,32755834880,1613699968.0,-0.206,289.79,27000.0
+"Revvity, Inc.",Healthcare,16.7,Low,13698777088,788105984.0,0.02,112.56,11000.0
+Resmed Inc.,Healthcare,26.4,Medium,34830286848,1632185984.0,0.111,237.27,
+Regency Centers Corporation,Real Estate,11.7,Low,13476028416,917937984.0,0.089,73.8,492.0
+Realty Income Corporation,Real Estate,15.5,Low,46202388480,4485658112.0,0.286,52.79,418.0
+"Raymond James Financial, Inc.",Financial Services,27.0,Medium,31637176320,,0.132,155.05,
+Ralph Lauren Corporation,Consumer Cyclical,14.6,Low,14299996160,1059800000.0,0.057,230.28,14800.0
+"Quanta Services, Inc.",Industrials,36.9,High,48477257728,1868978048.0,0.155,328.41,52500.0
+"Qorvo, Inc.",Technology,28.5,Medium,6697217024,673129984.0,-0.052,70.85,8700.0
+"Pultegroup, Inc.",Consumer Cyclical,21.4,Medium,22665662464,3788722944.0,0.118,110.52,6382.0
+Public Storage,Real Estate,13.1,Low,52116942848,3353046016.0,0.034,297.5,6200.0
+Public Service Enterprise Group Incorporated,Utilities,27.2,Medium,42379018240,4044999936.0,0.076,85.06,12543.0
+"Prudential Financial, Inc.",Financial Services,19.9,Low,41939349504,5557333504.0,1.334,117.83,40366.0
+"Prologis, Inc.",Real Estate,10.3,Low,95692398592,5739131904.0,0.068,103.32,2574.0
+"Principal Financial Group, Inc.",Financial Services,14.2,Low,17680521216,-15100000.0,-0.345,77.3,19800.0
+Ppl Corporation,Utilities,31.3,High,23932366848,3276000000.0,0.011,32.43,6629.0
+"Ppg Industries, Inc.",Basic Materials,25.2,Medium,27888719872,2870000128.0,-0.015,120.21,53000.0
+Pool Corporation,Industrials,,,13282891776,679414976.0,-0.028,349.04,6000.0
+Pinnacle West Capital Corporation,Utilities,30.8,High,9659952128,1978172032.0,0.08,84.96,6133.0
+Phillips 66,Energy,35.4,High,45581594624,5571999744.0,-0.104,110.37,14000.0
+Philip Morris International Inc.,Consumer Defensive,28.5,Medium,193140981760,15301000192.0,0.084,124.22,82700.0
+Pg&e Corporation,Utilities,30.4,High,43475365888,9317999616.0,0.009,19.82,28010.0
+Pfizer Inc.,Healthcare,24.6,Medium,149381857280,18365999104.0,0.312,26.36,88000.0
+"Pepsico, Inc.",Consumer Defensive,22.1,Medium,209626349568,16913000448.0,-0.006,152.79,318000.0
+Pentair Plc,Industrials,22.1,Medium,16845300736,978700032.0,-0.015,101.95,10500.0
+"Paypal Holdings, Inc.",Financial Services,17.8,Low,87351312384,6120999936.0,0.058,87.13,27200.0
+"Paycom Software, Inc.",Technology,,,11949295616,667798016.0,0.112,207.23,7308.0
+Parker-Hannifin Corporation,Industrials,29.5,Medium,83307585536,4962157056.0,0.012,647.2,61120.0
+"Palo Alto Networks, Inc.",Technology,13.9,Low,122565033984,1094400000.0,0.121,186.78,15289.0
+Paccar Inc,Industrials,27.6,Medium,55219380224,5908100096.0,-0.052,105.32,32400.0
+Otis Worldwide Corporation,Industrials,,,37373571072,2507000064.0,0.007,93.56,71000.0
+"Oneok, Inc.",Energy,25.1,Medium,58471841792,5612000256.0,0.199,100.08,4775.0
+Omnicom Group Inc.,Communication Services,16.3,Low,17453082624,2420600064.0,0.085,88.86,75900.0
+Occidental Petroleum Corporation,Energy,41.7,Severe,44224106496,12931000320.0,0.002,47.13,12570.0
+"O'reilly Automotive, Inc.",Consumer Cyclical,12.1,Low,70380068864,3685244928.0,0.038,1219.11,92709.0
+Nxp Semiconductors N.v.,Technology,19.8,Low,53433757696,4640000000.0,-0.054,210.24,34200.0
+"Nvr, Inc.",Consumer Cyclical,20.3,Medium,25359060992,2071504000.0,0.06,8276.78,6300.0
+Nucor Corporation,Basic Materials,32.8,High,27374499840,4940151808.0,-0.152,116.58,32000.0
+"Nrg Energy, Inc.",Utilities,32.0,High,18322094080,2192999936.0,-0.091,90.45,18131.0
+Nisource Inc.,Utilities,26.0,Medium,16883395584,2324999936.0,0.048,36.17,7364.0
+"Nike, Inc.",Consumer Cyclical,19.6,Low,114525192192,7200999936.0,-0.104,76.94,79400.0
+Newmont Corporation,Basic Materials,20.5,Medium,43579867136,6008999936.0,0.847,38.28,21700.0
+"Nasdaq, Inc.",Financial Services,13.1,Low,44658696192,2512000000.0,0.311,77.7,9120.0
+"Motorola Solutions, Inc.",Technology,13.1,Low,78536843264,3152000000.0,0.092,469.94,21000.0
+Morgan Stanley,Financial Services,24.6,Medium,198866780160,,0.165,123.44,80000.0
+Moody's Corporation,Financial Services,15.8,Low,84517085184,3313999872.0,0.232,466.35,15776.0
+Monster Beverage Corporation,Consumer Defensive,29.2,Medium,50298736640,2105284992.0,0.013,51.72,5254.0
+"Monolithic Power Systems, Inc.",Technology,,,28937269248,522235008.0,0.306,593.22,3564.0
+"Molina Healthcare, Inc.",Healthcare,,,16858556416,1814000000.0,0.174,294.73,18000.0
+"Mohawk Industries, Inc.",Consumer Cyclical,14.1,Low,7521534464,1549473024.0,-0.017,119.16,43300.0
+"Moderna, Inc.",Healthcare,,,15157980160,-2361999872.0,0.017,39.39,5600.0
+"Mid-America Apartment Communities, Inc.",Real Estate,13.1,Low,18401249280,1247618048.0,0.017,153.4,2427.0
+"Micron Technology, Inc.",Technology,18.2,Low,100408999936,8944000000.0,0.933,90.12,48000.0
+Mgm Resorts International,Consumer Cyclical,24.8,Medium,10170798080,2556987904.0,0.053,34.16,58000.0
+"Metlife, Inc.",Financial Services,16.4,Low,56335290368,7036000256.0,0.162,81.36,45000.0
+"Merck & Co., Inc.",Healthcare,21.4,Medium,248031199232,22927998976.0,0.044,98.05,70000.0
+Medtronic Plc,Healthcare,22.8,Medium,103903961088,9013000192.0,0.028,81.03,95000.0
+Mckesson Corporation,Healthcare,15.2,Low,73592193024,4889999872.0,0.213,579.74,45000.0
+Mcdonald's Corporation,Consumer Cyclical,26.0,Medium,209740349440,13845499904.0,0.027,292.68,100000.0
+Mastercard Incorporated,Financial Services,17.1,Low,484642324480,16784000000.0,0.128,528.03,33400.0
+Masco Corporation,Industrials,22.2,Medium,16049567744,1494000000.0,0.002,74.39,18000.0
+"Marsh & Mclennan Companies, Inc.",Financial Services,21.1,Medium,103990173696,7246000128.0,0.059,211.74,85000.0
+Marketaxess Holdings Inc.,Financial Services,,,8677667840,412735008.0,0.2,230.15,881.0
+Marathon Petroleum Corporation,Energy,30.5,High,42866864128,10341000192.0,-0.148,133.38,18200.0
+Lululemon Athletica Inc.,Consumer Cyclical,16.9,Low,46207287296,2699964928.0,0.073,379.42,38000.0
+Loews Corporation,Financial Services,16.4,Low,18017040384,3233999872.0,0.138,83.19,12280.0
+Lkq Corporation,Consumer Cyclical,11.1,Low,9587324928,1732000000.0,0.004,36.88,49000.0
+Linde Plc,Basic Materials,,,202038607872,12581000192.0,0.025,424.31,65596.0
+"Leidos Holdings, Inc.",Technology,17.6,Low,19322431488,2056999936.0,0.069,144.81,47000.0
+Las Vegas Sands Corp.,Consumer Cyclical,18.7,Low,37882609664,3863000064.0,-0.04,52.25,38400.0
+"Lamb Weston Holdings, Inc.",Consumer Defensive,,,8856579072,1294400000.0,-0.007,62.09,10700.0
+Labcorp Holdings Inc.,Healthcare,19.7,Low,19120779264,1673500032.0,0.074,228.61,67000.0
+"L3harris Technologies, Inc.",Industrials,,,40503603200,3705999872.0,0.077,213.55,50000.0
+Kla Corporation,Technology,17.2,Low,84184530944,4249192960.0,0.185,629.37,15000.0
+"Kinder Morgan, Inc.",Energy,19.0,Low,59651035136,6568999936.0,-0.053,26.85,10891.0
+"Keysight Technologies, Inc.",Technology,7.6,Negligible,28265295872,1187000064.0,-0.119,163.22,15400.0
+Keycorp,Financial Services,21.4,Medium,16941026304,,-0.602,17.09,16734.0
+Keurig Dr Pepper Inc.,Consumer Defensive,,,43908288512,4230000128.0,0.023,32.37,28100.0
+Kenvue Inc.,Consumer Defensive,,,41738752000,3454000128.0,-0.004,21.77,22000.0
+Kellanova,Consumer Defensive,28.4,Medium,27748188160,2032000000.0,-0.007,80.5,23000.0
+Jpmorgan Chase & Co.,Financial Services,29.3,Medium,668924837888,,0.03,237.6,316043.0
+Johnson Controls International Plc,Industrials,14.4,Low,53398601728,3232000000.0,-0.095,80.64,100000.0
+Johnson & Johnson,Healthcare,24.0,Medium,347828879360,30051999744.0,0.052,144.47,131900.0
+Jacobs Solutions Inc.,Industrials,22.4,Medium,16835307520,1476304000.0,0.011,135.75,60000.0
+Jabil Inc.,Technology,,,16195484672,2143000064.0,-0.177,145.0,138000.0
+Iqvia Holdings Inc.,Healthcare,19.1,Low,35804504064,2827000064.0,0.043,197.27,88000.0
+Invitation Homes Inc.,Real Estate,,,19689156608,1407630976.0,0.058,32.14,1555.0
+International Flavors & Fragrances Inc.,Basic Materials,22.7,Medium,21922174976,1876000000.0,0.037,85.74,21500.0
+International Business Machines Corporation,Technology,14.1,Low,206528708608,14675999744.0,0.015,223.36,282200.0
+Insulet Corporation,Healthcare,,,18698500096,410600000.0,0.257,266.57,3000.0
+Ingersoll Rand Inc.,Industrials,,,37189947392,1901100032.0,0.07,92.28,18000.0
+Illinois Tool Works Inc.,Industrials,25.3,Medium,76429549568,4652000256.0,-0.016,258.82,45000.0
+Idex Corporation,Industrials,29.3,Medium,16082113536,862700032.0,0.006,212.38,8800.0
+"Huntington Ingalls Industries, Inc.",Industrials,,,7452174848,1071000000.0,-0.024,190.45,44000.0
+Humana Inc.,Healthcare,22.5,Medium,29753559040,3779000064.0,0.113,247.1,67600.0
+Hubbell Incorporated,Industrials,19.6,Low,22906568704,1266200064.0,0.049,426.8,18000.0
+Hp Inc.,Technology,11.3,Low,30891065344,5045000192.0,0.024,32.94,58000.0
+Howmet Aerospace Inc.,Industrials,,,45025906688,1772000000.0,0.107,110.83,23200.0
+"Host Hotels & Resorts, Inc.",Real Estate,13.4,Low,12895228928,1515000064.0,0.092,18.2,163.0
+Hormel Foods Corporation,Consumer Defensive,30.0,Medium,17392732160,1353831040.0,-0.022,31.68,20000.0
+Hilton Worldwide Holdings Inc.,Consumer Cyclical,17.6,Low,60803608576,2456999936.0,0.063,249.42,178000.0
+Hewlett Packard Enterprise Company,Technology,10.7,Low,28424284160,4909000192.0,0.101,21.61,62000.0
+Hess Corporation,Energy,33.1,High,39497650176,6984999936.0,0.133,128.19,1756.0
+"Healthpeak Properties, Inc.",Real Estate,,,14072794112,1400305024.0,0.259,20.12,193.0
+"Hca Healthcare, Inc.",Healthcare,28.8,Medium,76906029056,13747000320.0,0.079,303.62,220000.0
+"Hasbro, Inc.",Consumer Cyclical,7.1,Negligible,8032467456,772200000.0,-0.148,57.58,5502.0
+Halliburton Company,Energy,25.6,Medium,22814697472,5112000000.0,-0.018,25.97,48000.0
+Globe Life Inc.,Financial Services,20.4,Medium,9182754816,1495667968.0,0.052,109.39,3636.0
+Genuine Parts Company,Consumer Cyclical,13.7,Low,16090636288,2055010944.0,0.025,115.73,60000.0
+General Motors Company,Consumer Cyclical,28.5,Medium,56970276864,18371000320.0,0.105,51.81,163000.0
+"General Mills, Inc.",Consumer Defensive,21.1,Medium,35063803904,4214599936.0,-0.012,63.61,34000.0
+General Dynamics Corporation,Industrials,35.2,High,72492826624,5402999808.0,0.104,263.64,100000.0
+Gen Digital Inc.,Technology,16.9,Low,17151517696,1808999936.0,0.031,27.83,3400.0
+Ge Vernova Inc.,Utilities,,,94455259136,1396999936.0,0.08,342.66,80000.0
+Ge Healthcare Technologies Inc.,Healthcare,,,36051849216,3571000064.0,0.009,78.91,51000.0
+"Gartner, Inc.",Technology,18.9,Low,37892227072,1298909952.0,0.054,491.25,20990.0
+Freeport-Mcmoran Inc.,Basic Materials,31.6,High,55839100928,9900000256.0,0.166,38.86,27200.0
+"Franklin Resources, Inc.",Financial Services,18.3,Low,10736411648,1688400000.0,0.113,20.49,10200.0
+Fortive Corporation,Technology,34.8,High,25830350848,1698499968.0,0.027,74.45,18000.0
+"Fortinet, Inc.",Technology,18.9,Low,74491568128,1727900032.0,0.13,97.19,13986.0
+Ford Motor Company,Consumer Cyclical,22.4,Medium,39265984512,9360000000.0,0.055,9.88,177000.0
+Fmc Corporation,Basic Materials,30.7,High,6260525568,703299968.0,0.085,50.15,5800.0
+"Fiserv, Inc.",Technology,19.6,Low,117225758720,8766000128.0,0.07,206.05,42000.0
+Firstenergy Corp.,Utilities,25.6,Medium,22931654656,3924000000.0,0.069,39.79,12042.0
+"First Solar, Inc.",Technology,,,19526307840,1716966016.0,0.108,182.39,6700.0
+Fifth Third Bancorp,Financial Services,16.8,Low,28500453376,,-0.03,42.93,18579.0
+"Fidelity National Information Services, Inc.",Technology,17.5,Low,43854315520,3571000064.0,0.031,81.46,60000.0
+Fedex Corporation,Industrials,19.7,Low,66409852928,10885000192.0,0.139,275.73,306000.0
+Federal Realty Investment Trust,Real Estate,12.4,Low,9579524096,739025984.0,0.058,111.92,297.0
+Fair Isaac Corporation,Technology,,,50910969856,747456000.0,0.164,2090.98,3586.0
+"F5, Inc.",Technology,17.1,Low,14785608704,782097984.0,0.056,252.25,
+Exxon Mobil Corporation,Energy,41.6,Severe,465308188672,71537999872.0,-0.015,105.87,62000.0
+"Expeditors International of Washington, Inc.",Industrials,16.6,Low,15604525056,1006916992.0,0.37,111.48,18690.0
+"Expedia Group, Inc.",Consumer Cyclical,27.6,Medium,23711924224,1720000000.0,0.033,184.75,17100.0
+Exelon Corporation,Utilities,22.9,Medium,37198807040,7148000256.0,0.029,37.02,19962.0
+Eversource Energy,Utilities,18.6,Low,20866592768,4149131008.0,0.097,56.95,10000.0
+"Evergy, Inc.",Utilities,,,14127425536,2564199936.0,0.085,61.43,4658.0
+"Everest Group, Ltd.",Financial Services,18.0,Low,15327888384,,0.128,356.64,2844.0
+Equity Residential,Real Estate,11.9,Low,27904485376,1796182016.0,0.034,71.35,2400.0
+"Epam Systems, Inc.",Technology,,,14081654784,659422016.0,0.013,248.26,53250.0
+"Eog Resources, Inc.",Energy,34.2,High,66954047488,13168000000.0,-0.039,119.04,3050.0
+Entergy Corporation,Utilities,26.7,Medium,32216944640,4596974080.0,-0.057,75.13,12000.0
+Emerson Electric Co.,Industrials,28.4,Medium,70673096704,4614000128.0,0.129,124.09,73000.0
+"Elevance Health, Inc.",Healthcare,11.4,Low,84874543104,11347999744.0,0.054,365.96,104900.0
+Edison International,Utilities,27.5,Medium,30786168832,6444000256.0,0.106,79.52,14375.0
+"Dupont De Nemours, Inc.",Basic Materials,28.6,Medium,32299563008,2977999872.0,0.044,77.28,24000.0
+Duke Energy Corporation,Utilities,27.0,Medium,83644350464,14106000384.0,0.02,108.28,27037.0
+Dte Energy Company,Utilities,29.8,Medium,24889397248,3448000000.0,0.006,120.18,9412.0
+Dow Inc.,Basic Materials,,,27961675776,4851999744.0,0.014,39.94,35900.0
+Dover Corporation,Industrials,25.9,Medium,25966329856,1765938048.0,0.013,189.27,25000.0
+Discover Financial Services,Financial Services,22.5,Medium,43475628032,,0.605,173.16,21100.0
+"Digital Realty Trust, Inc.",Real Estate,12.6,Low,60376125440,2337596928.0,0.016,178.57,3664.0
+"Diamondback Energy, Inc.",Energy,,,45240774656,6817999872.0,0.087,154.94,1023.0
+"Dexcom, Inc.",Healthcare,24.0,Medium,31263223808,840400000.0,0.02,80.04,9500.0
+Devon Energy Corporation,Energy,33.8,High,20212811776,7622000128.0,-0.102,30.77,1900.0
+"Delta Air Lines, Inc.",Industrials,30.3,High,39316971520,8415000064.0,0.012,60.93,100000.0
+Deere & Company,Industrials,20.0,Low,117453471744,14364000256.0,-0.168,432.49,83000.0
+Danaher Corporation,Healthcare,11.9,Low,165075959808,7511000064.0,0.031,228.55,61000.0
+Cvs Health Corporation,Healthcare,22.0,Medium,55823069184,14115000320.0,0.06,44.36,219000.0
+Cummins Inc.,Industrials,19.3,Low,48203010048,4582000128.0,0.003,351.38,75500.0
+Csx Corporation,Industrials,21.9,Medium,61420175360,7191000064.0,0.013,31.85,23400.0
+Crown Castle Inc.,Real Estate,10.1,Low,39400656896,3993999872.0,-0.009,90.66,4700.0
+Coterra Energy Inc.,Energy,36.1,High,17439016960,3448999936.0,-0.05,23.68,894.0
+"Corteva, Inc.",Basic Materials,,,39505600512,3014000128.0,-0.102,57.48,22500.0
+"Corpay, Inc.",Technology,,,23968733184,2066438016.0,0.06,343.83,10500.0
+Corning Incorporated,Technology,16.5,Low,40507248640,2607000064.0,0.069,47.31,49800.0
+Constellation Energy Corporation,Utilities,,,71004364800,5997000192.0,0.072,227.02,13871.0
+"Constellation Brands, Inc.",Consumer Defensive,24.7,Medium,41334652928,3887300096.0,0.029,227.63,10600.0
+"Consolidated Edison, Inc.",Utilities,23.8,Medium,31191611392,5555999744.0,0.057,90.03,14592.0
+Conocophillips,Energy,33.9,High,123043438592,24445999104.0,-0.079,95.12,10300.0
+"Conagra Brands, Inc.",Consumer Defensive,30.8,High,12940145664,2239500032.0,-0.038,27.11,18500.0
+Colgate-Palmolive Company,Consumer Defensive,26.2,Medium,75189518336,4894000128.0,0.024,92.03,34000.0
+Cms Energy Corporation,Utilities,21.7,Medium,19902068736,2739000064.0,0.042,66.61,8356.0
+Cme Group Inc.,Financial Services,17.8,Low,85957140480,4209900032.0,0.185,238.53,3565.0
+"Citizens Financial Group, Inc.",Financial Services,23.5,Medium,19148457984,,-0.061,43.45,17329.0
+Citigroup Inc.,Financial Services,29.2,Medium,130856288256,,-0.024,69.19,229000.0
+"Cisco Systems, Inc.",Technology,13.9,Low,233071116288,13752000512.0,-0.056,58.52,90400.0
+"Church & Dwight Co., Inc.",Consumer Defensive,19.9,Low,25994287104,1330099968.0,0.038,106.1,5550.0
+Chubb Limited,Financial Services,23.6,Medium,110126374912,11363000320.0,0.078,273.2,40000.0
+"Chipotle Mexican Grill, Inc.",Consumer Cyclical,20.7,Medium,84303437824,2233638912.0,0.13,61.87,125000.0
+Chevron Corporation,Energy,36.6,High,254690115584,38942998528.0,-0.064,142.85,45600.0
+"Charles River Laboratories International, Inc.",Healthcare,,,9499572224,948771008.0,-0.016,185.77,20400.0
+"Centerpoint Energy, Inc.",Utilities,28.7,Medium,21207195648,3081999872.0,-0.002,32.54,8827.0
+Centene Corporation,Healthcare,19.9,Low,30079856640,5919000064.0,0.061,59.58,67700.0
+"Cencora, Inc.",Healthcare,12.8,Low,44007923712,4303009792.0,0.147,227.69,46000.0
+Celanese Corporation,Basic Materials,26.1,Medium,7460544000,1851000064.0,-0.028,68.25,12400.0
+Cdw Corporation,Technology,9.2,Negligible,23258566656,1996300032.0,-0.02,174.53,15100.0
+"Cbre Group, Inc.",Real Estate,8.0,Negligible,39525285888,2213600000.0,0.148,129.16,130000.0
+"Cboe Global Markets, Inc.",Financial Services,21.0,Medium,20058884096,1290400000.0,0.162,191.61,1647.0
+Caterpillar Inc.,Industrials,36.2,High,176724836352,15818999808.0,-0.042,366.04,113200.0
+Carrier Global Corporation,Industrials,,,61451075584,3318000128.0,0.213,68.49,53000.0
+"Cardinal Health, Inc.",Healthcare,14.9,Low,28624943104,2924000000.0,-0.043,118.28,47922.0
+Camden Property Trust,Real Estate,16.1,Low,12258713600,893276992.0,-0.005,114.91,1640.0
+"Caesars Entertainment, Inc.",Consumer Cyclical,,,6973593600,3668000000.0,-0.04,32.82,51000.0
+"C.H. Robinson Worldwide, Inc.",Industrials,19.3,Low,12333509632,673996992.0,0.07,104.34,14537.0
+Bunge Global Sa,Consumer Defensive,32.9,High,11044496384,2486000128.0,-0.093,79.1,23000.0
+"Builders Firstsource, Inc.",Industrials,,,17320292352,2349128960.0,-0.067,150.5,29000.0
+"Brown & Brown, Inc.",Financial Services,20.5,Medium,29433659392,1528300032.0,0.099,102.93,16152.0
+Broadcom Inc.,Technology,20.0,Low,1031217348608,22958000128.0,0.164,220.79,20000.0
+Borgwarner Inc.,Consumer Cyclical,12.6,Low,6972155904,1882000000.0,-0.048,31.88,39900.0
+Booking Holdings Inc.,Consumer Cyclical,19.2,Low,167091666944,7183000064.0,0.089,5048.59,24200.0
+Blackstone Inc.,Financial Services,23.4,Medium,207208415232,,0.541,170.84,4735.0
+"Blackrock, Inc.",Financial Services,18.3,Low,159322472448,7673999872.0,0.149,1028.69,20400.0
+Biogen Inc.,Healthcare,22.2,Medium,21343463424,2884999936.0,-0.025,146.47,7570.0
+Baxter International Inc.,Healthcare,23.6,Medium,15062345728,2744000000.0,0.038,29.5,60000.0
+Bank of America Corporation,Financial Services,28.3,Medium,338911100928,,-0.005,44.17,213000.0
+Ball Corporation,Consumer Cyclical,12.1,Low,16652169216,2092999936.0,-0.009,55.8,21000.0
+Baker Hughes Company,Energy,,,39897690112,4336999936.0,0.04,40.32,57000.0
+"Axon Enterprise, Inc.",Industrials,,,48169394176,183220000.0,0.317,631.69,3330.0
+"Avalonbay Communities, Inc.",Real Estate,9.8,Negligible,31600791552,1808050944.0,0.094,222.17,2978.0
+"Autozone, Inc.",Consumer Cyclical,11.0,Low,54690828288,4338463232.0,0.09,3253.47,75600.0
+Atmos Energy Corporation,Utilities,34.6,High,21710899200,1991972992.0,0.059,139.69,5019.0
+At&t Inc.,Communication Services,23.9,Medium,163237838848,42773000192.0,-0.005,22.75,143630.0
+"Assurant, Inc.",Financial Services,24.1,Medium,10886776832,1241900032.0,0.07,212.27,13600.0
+Arthur J. Gallagher & Co.,Financial Services,21.2,Medium,70719234048,3382200064.0,0.119,283.1,51261.0
+Aptiv Plc,Consumer Cyclical,10.7,Low,13834219520,3032999936.0,-0.051,58.86,154000.0
+Apple Inc.,Technology,17.2,Low,3846819807232,134660997120.0,0.061,254.49,164000.0
+Apa Corporation,Energy,38.8,High,7783685632,5047000064.0,0.104,21.04,2271.0
+"Analog Devices, Inc.",Technology,22.9,Medium,105105776640,4361349120.0,-0.248,211.78,26000.0
+Amphenol Corporation,Technology,19.6,Low,85091958784,3586299904.0,0.262,70.58,95000.0
+"Ametek, Inc.",Industrials,23.9,Medium,42412634112,2138388992.0,0.053,183.36,21500.0
+"Ameriprise Financial, Inc.",Financial Services,20.3,Medium,51623407616,,0.119,532.12,13800.0
+American Tower Corporation,Real Estate,10.9,Low,85855002624,6966099968.0,,183.73,5643.0
+"American International Group, Inc.",Financial Services,24.2,Medium,45341773824,8501000192.0,-0.086,72.69,25000.0
+American Express Company,Financial Services,18.6,Low,210382487552,,0.08,298.65,74600.0
+"American Electric Power Company, Inc.",Utilities,26.1,Medium,49395404800,7258299904.0,0.015,92.75,17250.0
+Ameren Corporation,Utilities,27.2,Medium,23834001408,3264000000.0,0.056,89.29,9372.0
+"Altria Group, Inc.",Consumer Defensive,31.3,High,91248566272,12216000512.0,0.013,53.84,6400.0
+Alliant Energy Corporation,Utilities,21.4,Medium,15126511616,1636999936.0,0.004,58.95,3281.0
+"Alexandria Real Estate Equities, Inc.",Real Estate,13.9,Low,17331146752,1905123968.0,0.109,99.17,568.0
+Albemarle Corporation,Basic Materials,26.6,Medium,10419920896,-935078016.0,-0.414,88.65,9000.0
+Adobe Inc.,Technology,13.1,Low,196844240896,8134000128.0,0.106,447.17,29945.0
+Accenture Plc,Technology,9.8,Negligible,229157109760,11065912320.0,0.026,366.37,774000.0
+Abbvie Inc.,Healthcare,29.9,Medium,310274424832,25629999104.0,0.038,175.58,50000.0
+Abbott Laboratories,Healthcare,24.8,Medium,198127370240,10824999936.0,0.049,114.23,114000.0
+3m Company,Industrials,37.3,High,70400581632,8117000192.0,0.004,129.28,85000.0
