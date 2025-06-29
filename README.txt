@@ -1,7 +1,7 @@
 https://esg-investment-screener.streamlit.app/
 
 
-# ESG Investment Screener
+ESG Investment Screener
 
 This Streamlit app allows users to screen S&P 500 companies based on ESG (Environmental, Social, and Governance) risk levels, sectors, and key financial metrics like market cap, revenue growth, and EBITDA. It combines ESG rating data with company-level financial information to help investors identify companies aligned with their ethical or sustainability priorities.
 
@@ -15,9 +15,9 @@ Users can:
 The app is intended for ESG-conscious investors and finance students interested in responsible investing.
 
 
----
+--
 
-### Personal Note: Building This Was Not Easy...
+Personal Note: Building This Was Not Easy...
 
 This project turned out to be significantly more challenging than I initially anticipated, both technically and logistically. The first major hurdle was acquiring clean, usable datasets. The ESG dataset I found had substantial gaps and inconsistencies, particularly in the key score columns that were essential to the analysis. At the same time, most available financial datasets for S&P 500 companies were either outdated, lacked standardized identifiers like tickers, or contained inconsistent naming formats across companies. This made any sort of data integration extremely difficult.
 
