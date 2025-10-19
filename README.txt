@@ -17,14 +17,12 @@ The app is intended for ESG-conscious investors and finance students interested 
 
 --
 
-Personal Note: Building This Was Not Easy...
+Project Development Note
 
-This project turned out to be significantly more challenging than I initially anticipated, both technically and logistically. The first major hurdle was acquiring clean, usable datasets. The ESG dataset I found had substantial gaps and inconsistencies, particularly in the key score columns that were essential to the analysis. At the same time, most available financial datasets for S&P 500 companies were either outdated, lacked standardized identifiers like tickers, or contained inconsistent naming formats across companies. This made any sort of data integration extremely difficult.
+This project's primary technical challenge was integrating disparate ESG and financial datasets. The initial ESG data had significant gaps in key columns, while the S&P 500 financial data lacked standardized identifiers and had inconsistent company naming conventions.
 
-Attempting to merge the ESG data with the financials was a painstaking, iterative process. There was no single reliable key to join them. I had to experiment with multiple columns like Name, Shortname, and Longname, all of which were plagued with mismatches due to inconsistent formatting, whitespace issues, casing differences, and special characters. Even after cleaning and normalizing everything, I still lost a significant number of companies in the merge. I had to write logic just to calculate which field provided the highest match coverage and ensure I wasn’t discarding important data.
+With no reliable key to join the tables, I had to programmatically test various name fields to find the best match and minimize data loss during the merge. This required extensive data cleaning and normalization.
 
-Then came the Streamlit layer. I made the classic mistake of trying to run the app with python instead of streamlit run, which threw an avalanche of cryptic ScriptRunContext warnings that took time to research and understand. When I finally got past that, I hit another wall. The app couldn’t find the merged dataset CSV, triggering repeated FileNotFoundErrors because of relative path confusion between my script and app environment. Debugging that required carefully inspecting file paths, working directories, and restructuring the project layout.
+Setting up the Streamlit application also presented obstacles, including resolving FileNotFoundError issues caused by incorrect relative file paths and troubleshooting initial runtime command errors. Furthermore, I pivoted from using kagglehub due to documentation and workflow issues, opting instead for the more stable kaggle CLI for data acquisition.
 
-On top of it all, I originally attempted to pull datasets using kagglehub, which sounded simple but had its own quirks. It had outdated documentation, unclear behavior with certain datasets, and poor support for standard workflows like merging with financial data. I eventually scrapped it in favor of the more reliable kaggle CLI, which required setting up credentials, handling API keys, and downloading files manually before processing.
-
-What seemed like a basic dashboard idea evolved into a multi-day debugging session involving API configuration, data cleaning at scale, painful column-by-column matching, and framework-specific runtime problems. But in the end, every piece came together. I learned far more than I expected, not just about ESG data, but about building robust, user-facing data applications from real-world, imperfect inputs.
+Ultimately, what began as a straightforward dashboard became an in-depth exercise in data wrangling and environment configuration with real-world, imperfect data.
